@@ -1,6 +1,6 @@
 # Team1-S21
 
-This Connect Four Game was created by ZachReee, eap21, and I as a project for class.
+This Connect Four Game was created by ZachReeee, eap22, and I as a project for class.
 
 To run this program on your device, download the zip folder and un zip it. Focusing on the "Final Program" folder, go to src/connect/four/.
 
